@@ -43,7 +43,6 @@ class ScribeTokenator extends PushDropTokenator {
    * @returns
    */
   async createScribeToken (note) {
-    debugger
     return await this.createPushDropToken(note)
   }
 
