@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@babbage/sdk": "^0.4.43",
-    "pushdrop": "^0.1.34",
+    "pushdrop": "^0.1.36",
     "pushdrop-tokenator": "^0.1.5"
   }
 }
