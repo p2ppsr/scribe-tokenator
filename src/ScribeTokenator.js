@@ -1,4 +1,4 @@
-const BabbageSDK = require('@babbage/sdk')
+const BabbageSDK = require('@babbage/sdk-ts')
 const pushdrop = require('pushdrop')
 const PushDropTokenator = require('pushdrop-tokenator')
 
