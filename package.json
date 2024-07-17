@@ -1,6 +1,6 @@
 {
   "name": "scribe-tokenator",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "description": "Tokenator for Scribe Notes",
   "main": "src/ScribeTokenator.js",
   "scripts": {
